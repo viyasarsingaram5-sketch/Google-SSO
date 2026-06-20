@@ -1,0 +1,5 @@
+Authentication :
+    verify the user / system/ device 
+
+Authorization :
+    verify resource access
